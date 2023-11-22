@@ -1,0 +1,21 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: M:Codeunit::Say_Hello.SayHello(Text)
+  name: SayHello
+  href: reference/bizsourceapp/Codeunit/Say-Hello.html
+- uid: N:Module::BizSourceApp
+  name: BizSourceApp
+  summary: ''
+  fqName: BizSourceApp by VentselOrg (1.0.0.0)
+  href: reference/bizsourceapp/Module/BizSourceApp.html
+- uid: O:Codeunit::Say_Hello
+  name: "\"Say Hello\""
+  summary: >
+    <p sourcefile="reference/bizsourceapp/Codeunit/Say-Hello.yml" sourcestartlinenumber="1" jsonPath="/summary">This codeunit demonstrates how to use the Environment Information codeunit</p>
+  fqName: "\"Say Hello\""
+  href: reference/bizsourceapp/Codeunit/Say-Hello.html
+- uid: O:PageExtension::CustomerListExt
+  name: CustomerListExt
+  fqName: CustomerListExt
+  href: reference/bizsourceapp/PageExtension/CustomerListExt.html

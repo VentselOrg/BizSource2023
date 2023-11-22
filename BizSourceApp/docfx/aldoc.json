@@ -1,0 +1,10 @@
+﻿{
+  "Modules": [
+    {
+      "AppId": "8bfa24e1-a1e8-411c-9eb7-ccde2b4c3d87",
+      "Name": "BizSourceApp",
+      "Publisher": "VentselOrg",
+      "Version": "1.0.0.0"
+    }
+  ]
+}

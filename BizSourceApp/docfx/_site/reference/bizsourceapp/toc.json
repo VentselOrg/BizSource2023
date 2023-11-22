@@ -1,0 +1,2 @@
+
+{"order":100,"items":[{"name":"Overview","href":"Module/BizSourceApp.html","topicHref":"Module/BizSourceApp.html","topicUid":"N:Module::BizSourceApp"},{"name":"Reference","items":[{"name":"Codeunits","items":[{"name":"Say Hello","href":"Codeunit/Say-Hello.html","topicHref":"Codeunit/Say-Hello.html","topicUid":"O:Codeunit::Say_Hello"}]},{"name":"PageExtensions","items":[{"name":"CustomerListExt","href":"PageExtension/CustomerListExt.html","topicHref":"PageExtension/CustomerListExt.html","topicUid":"O:PageExtension::CustomerListExt"}]}]}]}

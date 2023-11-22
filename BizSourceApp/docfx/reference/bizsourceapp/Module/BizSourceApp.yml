@@ -1,0 +1,14 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: BizSourceApp by VentselOrg (1.0.0.0)
+baseKind: Module
+kind: Module
+objectProperties:
+- name: Version
+  value: 1.0.0.0
+  promoted: false
+- name: Publisher
+  value: VentselOrg
+  promoted: false
+summary: ""
+uid: N:Module::BizSourceApp
+name: BizSourceApp

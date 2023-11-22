@@ -1,0 +1,77 @@
+{
+  "source_base_path": "C:/Work/BizSource/BizSource2023/BizSourceApp/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/bizsourceapp/Codeunit/Say-Hello.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/bizsourceapp/Codeunit/Say-Hello.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/bizsourceapp/Module/BizSourceApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/bizsourceapp/Module/BizSourceApp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/bizsourceapp/PageExtension/CustomerListExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/bizsourceapp/PageExtension/CustomerListExt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "reference/bizsourceapp/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/bizsourceapp/toc.html"
+        },
+        ".json": {
+          "relative_path": "reference/bizsourceapp/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
